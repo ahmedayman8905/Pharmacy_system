@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\decounment\\.net\\test_c#\\EF0,2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\pharmacy_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\pharmacy_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\usemedicalequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\usemedicalequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|f:\\decounment\\.net\\test_c#\\ef0,2\\ef0,2\\pharmacysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750807FE-135F-4BCB-85F7-1AD9375CE0E9}|EF0,2\\Pharmacy_system.csproj|solutionrelative:ef0,2\\pharmacysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseMedicalEquipment.cs",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\UseMedicalEquipment.cs",
+              "RelativeDocumentMoniker": "EF0,2\\UseMedicalEquipment.cs",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\UseMedicalEquipment.cs",
+              "RelativeToolTip": "EF0,2\\UseMedicalEquipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:35:01.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Tax.cs",
+              "RelativeDocumentMoniker": "EF0,2\\Tax.cs",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Tax.cs",
+              "RelativeToolTip": "EF0,2\\Tax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:35:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Bill.cs",
+              "RelativeDocumentMoniker": "EF0,2\\Bill.cs",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Bill.cs",
+              "RelativeToolTip": "EF0,2\\Bill.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:33:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PharmacySystemContext.cs",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\PharmacySystemContext.cs",
+              "RelativeDocumentMoniker": "EF0,2\\PharmacySystemContext.cs",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\PharmacySystemContext.cs",
+              "RelativeToolTip": "EF0,2\\PharmacySystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:32:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pharmacy_system.csproj",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Pharmacy_system.csproj",
+              "RelativeDocumentMoniker": "EF0,2\\Pharmacy_system.csproj",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Pharmacy_system.csproj",
+              "RelativeToolTip": "EF0,2\\Pharmacy_system.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T04:30:33.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Program.cs",
+              "RelativeDocumentMoniker": "EF0,2\\Program.cs",
+              "ToolTip": "F:\\decounment\\.net\\test_c#\\EF0,2\\EF0,2\\Program.cs",
+              "RelativeToolTip": "EF0,2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:30:04.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
